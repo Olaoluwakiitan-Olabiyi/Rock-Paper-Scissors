@@ -31,7 +31,7 @@ scissors = '''
 '''
 
 
-print("Hello! Welcome to LBI rock, paper , scissors game")
+print("Hello! Welcome to 'LABIYI Studio rock, paper , scissors game")
 user_choice=int(input("Select either 0 for rock, 1 for paper, or 2 scissors\n"))
 game=([rock, paper, scissors])
 
